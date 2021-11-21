@@ -30,17 +30,21 @@ To complete the final deliverable, the following changes were made to the Bootst
 ![mobileresponsiveness](https://user-images.githubusercontent.com/90277142/142754993-d375e709-63f9-4c61-80cf-29451f906b7e.png)
 
 
+(2)As we Know that A jumbotron is a big grey box used to indicate some text which requires extra attention.so In Jumbotron I put My Project Name Mission To Mars.so I changed jumbotron background and put background-image with url: url(https://marshemispheres.com/images/full.jpg).
 
-
-(2) Updated the color of the Jumbotron header by adding gradient color shading and changing the color of the scrape button.
-
-original tag <div class_"jumbotron text-center"> & <a class="btn btn-primary btn-lg">
-  
-updated tag <div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center"> & <a class="btn btn-default btn-lg">
+Original Tag: <div class="jumbotron text-center">
+Updated Tag: <div class="jumbotron text-center" style="background-image: url(https://marshemispheres.com/images/full.jpg);">
   
 (3) Changed the orientation of the hemisphere images to a single ribbon by changing the grid from col-md-6 to col-md-3. 
   
 ![Hemisphere_col-md-3](https://user-images.githubusercontent.com/90277142/142773937-4bcad4c2-dd12-47e8-b79f-77bf46e96dad.png)
 
-(4) Updated the background color of the entire webpage by modifying the <body> tag with <body style="background-color:darksalmon; color:black">.  
-  .
+(4) To change the background color of the entire webpage by modifying the <body> tag inside the <style> tag and <style> tag will be inside of <Head> tag. For example, navigate to that style sheet and added this line:
+
+body {
+   margin: 5px;
+   padding-bottom: 70px;
+   background-color: rgb(69, 121, 151;
+}
+Saved the stylesheet, then refreshed my browser. I Noticed that the background is blue instead of white. 
+  
