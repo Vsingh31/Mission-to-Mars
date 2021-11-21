@@ -48,5 +48,6 @@ Updated Tag Result: ![jombotron2](https://user-images.githubusercontent.com/9027
 *   padding-bottom: 70px;
 *  background-color: rgb(69, 121, 151;
 * }
+
 Saved the stylesheet, then refreshed my browser. I Noticed that the background is blue instead of white. 
   
