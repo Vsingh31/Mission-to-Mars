@@ -43,10 +43,10 @@ Updated Tag Result: ![jombotron2](https://user-images.githubusercontent.com/9027
 
 (4) To change the background color of the entire webpage by modifying the <body> tag inside the <style> tag and <style> tag will be inside of <Head> tag. For example, navigate to that style sheet and added this line:
 
-body {
-   margin: 5px;
-   padding-bottom: 70px;
-   background-color: rgb(69, 121, 151;
-}
+* body {
+*   margin: 5px;
+*   padding-bottom: 70px;
+*  background-color: rgb(69, 121, 151;
+* }
 Saved the stylesheet, then refreshed my browser. I Noticed that the background is blue instead of white. 
   
