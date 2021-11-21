@@ -19,5 +19,6 @@ we exported our Jupyter notebook file into a Python script. Using this script as
 Next, we integrate Mongo into the web app so that the data stored is updated every time the script, "Scraping.py" is run.
 Using your Python and HTML skills, you’ll add the code you created in Deliverable 1 to your scraping.py file, update your Mongo database, and modify your index.html file so the webpage contains all the information you collected in this module as well as the full-resolution image and title for each hemisphere image.After you have scraped the data, confirm that your webpage has the full-resolution images and the titles of the four hemisphere images, like the image below.
 
+![hemispheres](https://user-images.githubusercontent.com/90277142/142754248-aa758b35-44e2-4ad0-b01c-5898828e5bee.png)
 
 ### Deliverable 3 : Add Bootstrap 3 Components
