@@ -41,4 +41,4 @@ updated tag <div style="background:linear-gradient(to bottom, #ffcccc 15%, #e996
 (3) Changed the orientation of the hemisphere images to a single ribbon by changing the grid from col-md-6 to col-md-3.  
   
 (4) Updated the background color of the entire webpage by modifying the <body> tag with <body style="background-color:darksalmon; color:black">.  
-  
+  .
