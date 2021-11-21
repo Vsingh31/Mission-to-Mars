@@ -38,7 +38,9 @@ original tag <div class_"jumbotron text-center"> & <a class="btn btn-primary btn
   
 updated tag <div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center"> & <a class="btn btn-default btn-lg">
   
-(3) Changed the orientation of the hemisphere images to a single ribbon by changing the grid from col-md-6 to col-md-3.  
+(3) Changed the orientation of the hemisphere images to a single ribbon by changing the grid from col-md-6 to col-md-3. 
   
+![Hemisphere_col-md-3](https://user-images.githubusercontent.com/90277142/142773937-4bcad4c2-dd12-47e8-b79f-77bf46e96dad.png)
+
 (4) Updated the background color of the entire webpage by modifying the <body> tag with <body style="background-color:darksalmon; color:black">.  
   .
