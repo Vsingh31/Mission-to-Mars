@@ -22,3 +22,23 @@ Using your Python and HTML skills, you’ll add the code you created in Delivera
 ![hemispheres](https://user-images.githubusercontent.com/90277142/142754248-aa758b35-44e2-4ad0-b01c-5898828e5bee.png)
 
 ### Deliverable 3 : Add Bootstrap 3 Components
+I updated my web app to make it mobile-responsive, and added two additional Bootstrap 3 components to make it stand out.
+To complete the final deliverable, the following changes were made to the Bootstrap components to customize the view of the page:
+
+(1) I updated my index.html file so my website is mobile-responsive.I also Used the DevTools to test the responsiveness of my website by clicking Toggle Device Toolbar icon to       open the UI that enables you to simulate responsiveness.And i Chose a Mobile device(Iphone5) to test my webpage.
+
+![mobileresponsiveness](https://user-images.githubusercontent.com/90277142/142754993-d375e709-63f9-4c61-80cf-29451f906b7e.png)
+
+
+
+
+(2) Updated the color of the Jumbotron header by adding gradient color shading and changing the color of the scrape button.
+
+original tag <div class_"jumbotron text-center"> & <a class="btn btn-primary btn-lg">
+  
+updated tag <div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center"> & <a class="btn btn-default btn-lg">
+  
+(3) Changed the orientation of the hemisphere images to a single ribbon by changing the grid from col-md-6 to col-md-3.  
+  
+(4) Updated the background color of the entire webpage by modifying the <body> tag with <body style="background-color:darksalmon; color:black">.  
+  
