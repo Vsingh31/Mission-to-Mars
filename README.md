@@ -29,9 +29,9 @@ To complete the final deliverable, the following changes were made to the Bootst
 
 **(2)** As we Know that A jumbotron is a big grey box used to indicate some text which requires extra attention.so In Jumbotron I put My Project Name Mission To Mars.so I               changed jumbotron background and put background-image with url: url(https://marshemispheres.com/images/full.jpg).
 
-Original Tag Result: ![jombotron1](https://user-images.githubusercontent.com/90277142/142775451-1089d3f2-0306-4337-8e39-c87b831b7144.png)
+**Original Tag Result:** ![jombotron1](https://user-images.githubusercontent.com/90277142/142775451-1089d3f2-0306-4337-8e39-c87b831b7144.png)
 
-Updated Tag Result: ![jombotron2](https://user-images.githubusercontent.com/90277142/142775467-6a49ea21-6f2e-4145-b771-543315ed3204.png)
+**Updated Tag Result:**  ![jombotron2](https://user-images.githubusercontent.com/90277142/142775467-6a49ea21-6f2e-4145-b771-543315ed3204.png)
 
 
 **(3)** Changed the orientation of the hemisphere images to a single ribbon by changing the grid from col-md-6 to col-md-3. 
